@@ -8,3 +8,4 @@ El programa leerá el número, descripción y duración de cada actividad, así 
 El sistema debe ser suficientemente inteligente para detectar cual es la actividad inicial y cuál es la final.
 
 Instrucciones: descargar o clonar el repositorio, luego ir al fichero de main y ejecutar.
+Editor de código: Visual Studio Code
