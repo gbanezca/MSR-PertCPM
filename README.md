@@ -1,4 +1,4 @@
-#UNIMET | Modelación de sistemas de redes | Proyecto 2
+# UNIMET | Modelación de sistemas de redes | Proyecto 2
 
 Se requiere construir un sistema que almacene datos de unas actividades, a fin de aplicar el Pert CPM 
 al grafo resultante y desplegar los días  más tempranos y más tardíos de inicio y de terminación, indicando 
