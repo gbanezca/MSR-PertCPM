@@ -7,4 +7,4 @@ cuáles actividades están en la ruta crítica y cuales tienen holgura y cuánta
 El programa leerá el número, descripción y duración de cada actividad, así como los números de sus predecesoras. 
 El sistema debe ser suficientemente inteligente para detectar cual es la actividad inicial y cuál es la final.
 
-
+Instrucciones: descargar o clonar el repositorio, luego ir al fichero de main y ejecutar.
